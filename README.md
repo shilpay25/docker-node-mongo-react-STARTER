@@ -16,7 +16,7 @@ Under the hood
 - Docker
 - Node JS (just to install dependencies)
 
-Everything else will be pulled from Docker/Npm repositories !
+Everything else will be pulled from Docker or Npm repositories
 
 Getting Started
 ---------------
